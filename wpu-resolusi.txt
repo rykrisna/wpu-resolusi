@@ -2,3 +2,5 @@ WPU RESOLUSI
  - Konsisten belajar 
  - Kuasai front-end
  - Buat porto
+ - Belajar bahasa pemrograman lain
+ - Belajar Fullstack
