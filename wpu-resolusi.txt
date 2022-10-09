@@ -3,4 +3,4 @@ WPU RESOLUSI
  - Kuasai front-end
  - Buat porto
  - Belajar bahasa pemrograman lain
- - Belajar Fullstack
+ - Belajar data analyst
